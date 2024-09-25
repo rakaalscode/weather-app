@@ -1,0 +1,46 @@
+{
+  "coord": {
+    "lon": 106.9267,
+    "lat": -6.9181
+  },
+  "weather": [
+    {
+      "id": 804,
+      "main": "Clouds",
+      "description": "overcast clouds",
+      "icon": "04n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 26.71,
+    "feels_like": 30.01,
+    "temp_min": 26.71,
+    "temp_max": 26.71,
+    "pressure": 1011,
+    "humidity": 91,
+    "sea_level": 1011,
+    "grnd_level": 943
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 0.47,
+    "deg": 208,
+    "gust": 1.06
+  },
+  "clouds": {
+    "all": 93
+  },
+  "dt": 1727088500,
+  "sys": {
+    "type": 2,
+    "id": 2097789,
+    "country": "ID",
+    "sunrise": 1727044876,
+    "sunset": 1727088485
+  },
+  "timezone": 25200,
+  "id": 1626381,
+  "name": "Sukabumi",
+  "cod": 200
+}
